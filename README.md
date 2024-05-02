@@ -2,7 +2,7 @@
 
 Programming is my hobby and I love it!
 
-![<volodyslav>'s Stats](https://github-readme-stats.vercel.app/api?username=<volodyslav>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![volodyslav's Stats](https://github-readme-stats.vercel.app/api?username=volodyslav&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
