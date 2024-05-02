@@ -31,7 +31,7 @@ I'm currently doing my Master's in Electrical Engineering. Programming was a par
 
 ## 📬 Get in Touch
 
-- Connect with me on [X]([https://twitter.com/introvertedbot](https://twitter.com/home))
+- Connect with me on [X]([(https://twitter.com/home)](https://twitter.com/volodys1ove))
 
 
 
