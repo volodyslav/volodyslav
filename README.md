@@ -17,12 +17,17 @@ I'm currently doing my Master's in Electrical Engineering. Programming was a par
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,bootstrap,c,cs,django,fastapi,git,jest,matlab,mongodb,mysql,nodejs,postman,postgres,py,qt,react,sklearn,tailwind,tauri,tensorflow,vite)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
-[!I really want to learn](https://skillicons.dev/icons?i=blender,cpp,d3,docker,dotnet,electron,flask,godot,nextjs,redis,rust,ts,threejs,vue)](https://skillicons.dev)
+[![I really want to learn]](https://skillicons.dev/icons?i=blender,cpp,d3,docker,dotnet,electron,flask,godot,nextjs,redis,rust,ts,threejs,vue)](https://skillicons.dev)
 - 🚀 Learning Full Stack Web Development
   - Exploring React, Next.js.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
   - Building server-side applications with Django, a powerful Python web framework.
   - Diving into MySQL for efficient database management.
+    
+- 🤖 Learning Machine learning and Deep Learning
+  - Exploring Tensorflow and PyTorch frameworks.
+  - Learning sklearn, numpy, pandas and matplotlib. Python's libraries for data manipulation, computation and representation.
+  - Building models for prediction and classification.
 
 ## 📬 Get in Touch
 
