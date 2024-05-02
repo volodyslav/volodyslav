@@ -6,7 +6,7 @@ Programming is my hobby and I love it!
 
 ## 🚀 About Me
 
-I'm currently doing my Master's in Electrical Engineering. Programming was a part of my Bachelor's degree, so it sparked my curiosity. 
+I'm currently doing my Master's in Electrical Engineering. Programming was a part of my Bachelor's degree, so it's sparked my curiosity. 
 
 ## My Articles
 - [How to start with Django](https://dev.to/volodyslav/how-to-start-with-django-5cp5)
