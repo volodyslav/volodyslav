@@ -31,7 +31,7 @@ I'm currently doing my Master's in Electrical Engineering. Programming was a par
 
 ## 📬 Get in Touch
 
-- Connect with me on [X](https://twitter.com/volodys1ove)
+- Connect with me on Discord, my username is volodyslav_
 
 
 
