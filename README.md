@@ -1,12 +1,6 @@
 # Hi, I'm Vladyslav! 👋
 
-Programming is my hobby and I love it!
-
 ![volodyslav's Stats](https://github-readme-stats.vercel.app/api?username=volodyslav&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-## 🚀 About Me
-
-I'm currently doing my Master's in Electrical Engineering. Programming was a part of my Bachelor's degree, so it's sparked my curiosity. 
 
 ## My Articles
 - [How to start with Django](https://dev.to/volodyslav/how-to-start-with-django-5cp5)
@@ -32,19 +26,3 @@ I'm currently doing my Master's in Electrical Engineering. Programming was a par
 ## 📬 Get in Touch
 
 - Connect with me on Discord, my username is volodyslav_
-
-
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
