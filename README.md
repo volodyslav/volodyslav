@@ -8,10 +8,10 @@
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,bootstrap,c,cs,django,fastapi,git,jest,matlab,mongodb,mysql,nodejs,postman,postgres,py,qt,react,sklearn,tailwind,tauri,tensorflow,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,c,django,fastapi,git,jest,matlab,mongodb,mysql,nodejs,postman,postgres,py,qt,react,sklearn,tailwind,tensorflow)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
-[![I really want to learn](https://skillicons.dev/icons?i=blender,cpp,d3,docker,dotnet,electron,flask,godot,nextjs,redis,rust,ts,threejs,vue)](https://skillicons.dev)
+[![I really want to learn](https://skillicons.dev/icons?i=blender,d3,docker,dotnet,electron,flask,cs,godot,nextjs,redis,rust,ts,threejs)](https://skillicons.dev)
 - 🚀 Learning Full Stack Web Development
   - Exploring React, Next.js.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
@@ -25,4 +25,4 @@
 
 ## 📬 Get in Touch
 
-- Connect with me on Discord, my username is volodyslav_
+- Connect with me on [X](https://twitter.com/volodys1ove)
