@@ -22,6 +22,11 @@
   - Exploring Tensorflow and PyTorch frameworks.
   - Learning sklearn, numpy, pandas and matplotlib. Python's libraries for data manipulation, computation and representation.
   - Building models for prediction and classification.
+ 
+- 🎮 Learning Game Development
+    - Making small games with Python and JavaScript
+    - Exploring Godot engine
+    - Diving into Pygame and Kaboom.js
 
 ## 📑 Certificates
   - Front-end https://www.freecodecamp.org/certification/fcc64dc9118-74ef-4224-9bd1-20c813e1de10/legacy-front-end
