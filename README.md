@@ -28,7 +28,7 @@
     - Exploring Godot engine
     - Diving into Pygame and Kaboom.js
 
-## 📑 Certificates
+## 📑 Certifications
   - Front-end https://www.freecodecamp.org/certification/fcc64dc9118-74ef-4224-9bd1-20c813e1de10/legacy-front-end
   - Front-end libraries https://www.freecodecamp.org/certification/fcc64dc9118-74ef-4224-9bd1-20c813e1de10/front-end-development-libraries
   - HTML and CSS https://www.freecodecamp.org/certification/fcc64dc9118-74ef-4224-9bd1-20c813e1de10/responsive-web-design
