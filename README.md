@@ -6,6 +6,8 @@
 - [How to start with Django](https://dev.to/volodyslav/how-to-start-with-django-5cp5)
 - [RegEx cheat sheet for JavaScript](https://dev.to/volodyslav/regex-cheat-sheet-for-javascript-6np)
 
+## AI website
+https://mern-hf.onrender.com/
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,c,django,fastapi,git,jest,matlab,mongodb,mysql,nodejs,postman,postgres,py,qt,react,sklearn,tailwind,tensorflow)](https://skillicons.dev)
