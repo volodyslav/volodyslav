@@ -1,6 +1,6 @@
 # Hi, I'm Vladyslav! 👋
 
-![volodyslav's Stats](https://github-readme-stats.vercel.app/api?username=volodyslav&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=volodyslav&layout=compact)
 
 ## My Articles
 - [How to start with Django](https://dev.to/volodyslav/how-to-start-with-django-5cp5)
