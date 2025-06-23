@@ -1,5 +1,7 @@
 # Hi, I'm Vladyslav! 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=volodyslav&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
 ## My Articles
 - [How to start with Django](https://dev.to/volodyslav/how-to-start-with-django-5cp5)
 - [RegEx cheat sheet for JavaScript](https://dev.to/volodyslav/regex-cheat-sheet-for-javascript-6np)
